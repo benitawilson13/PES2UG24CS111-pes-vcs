@@ -1,4 +1,4 @@
-// object.c — Content-addressable object store
+// object.c — Content-addressable object store.
 
 #include "pes.h"
 #include <errno.h>
