@@ -1,4 +1,4 @@
-// tree.c — Tree object serialization and construction
+// tree.c — Tree object serialization and construction.
 
 #include "tree.h"
 #include "index.h"
