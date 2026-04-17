@@ -1,4 +1,4 @@
-// index.c — Staging area implementation
+// index.c — Staging area implementation.
 
 #include "index.h"
 #include <errno.h>
